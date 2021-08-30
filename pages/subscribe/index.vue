@@ -1,7 +1,5 @@
 <template lang="pug">
-  #app
-    AppHeader
-    Main
+  Subscribe
 </template>
 
 <script>
